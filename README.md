@@ -1,4 +1,4 @@
-# Suicidio-el-los-Adolescentes-
+# Suicidio-en-los-Adolescentes-
 #Suicidio en los Adolescentes 
 Definir el proyecto: Al recolectar datos masibos y Analisarlos vamos a poder resolver muestra pregunta 
 eligue el tema:El Suicidio en los Adolescentes 
