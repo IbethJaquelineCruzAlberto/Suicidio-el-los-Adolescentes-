@@ -1,5 +1,5 @@
 <p align="justify">
-# Suicidio-en-los-Adolescentes-
+### Suicidio-en-los-Adolescentes-
 <p align="center">
   <img
 src=https://www.fmposgrado.unam.mx/wp-content/uploads/SDM2-980x816.png width="300"/>
