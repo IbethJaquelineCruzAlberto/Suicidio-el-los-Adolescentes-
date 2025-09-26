@@ -1,12 +1,21 @@
-<p align="justify">
-### Suicidio-en-los-Adolescentes-
+<div align="justify">
+<h1 align="center"><em><strong>📌 Suicidio en los Adolescentes </strong></em></h1>
 <p align="center">
   <img
 src=https://www.fmposgrado.unam.mx/wp-content/uploads/SDM2-980x816.png width="300"/>
 </p>
-#Suicidio en los Adolescentes 
-Definir el proyecto: Al recolectar datos masivos y Analisarlos vamos a poder resolver muestra pregunta 
-Elige el tema:El Suicidio en los Adolescentes 
-Formula la pregubta que quieras responder a traves del Analisis de Datos : ¿ por que es mas comun el suicidio en los adolescentes?
-Determina los elementos de datos necesarios para su analisis y poder dar respuesta a la pregunta: •Datos cuantitativos •Datos cualitantivos •Fuebte de datos •Variables demograficas• Variables de comportamiento 
-</p>
+
+
+### 📖 Definición del Proyecto  
+- 🔍 Recolectar **Datos Masivos** y analizarlos para resolver nuestra pregunta.  
+- 📑 **Tema:** El suicidio en los adolescentes.  
+- ❓ **Pregunta de investigación:** *¿Por qué es más común el suicidio en los adolescentes?*  
+
+### 📊 Elementos de Datos
+ 🔹 Datos cuantitativos  
+ 🔹 Datos cualitativos  
+ 🔹 Fuente de datos  
+ 🔹 Variables demográficas  
+ 🔹 Variables de comportamiento  
+</div>
+
