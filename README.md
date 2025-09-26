@@ -1,4 +1,8 @@
 # Suicidio-en-los-Adolescentes-
+<p align="center">
+  <img
+src=https://www.fmposgrado.unam.mx/wp-content/uploads/SDM2-980x816.png width="200"/>
+</p>
 #Suicidio en los Adolescentes 
 Definir el proyecto: Al recolectar datos masivos y Analisarlos vamos a poder resolver muestra pregunta 
 Elige el tema:El Suicidio en los Adolescentes 
